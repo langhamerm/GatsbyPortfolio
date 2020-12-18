@@ -1,4 +1,4 @@
-const about = require('./about.json');
+const about = require("./about.json");
 
 require('dotenv').config();
 
